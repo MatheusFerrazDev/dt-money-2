@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-06-18T22:00:07.782Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 58,
+      "createdAt": "2024-06-18T22:58:06.782Z"
+    },
+    {
+      "id": 3,
+      "description": "Celular",
+      "type": "outcome",
+      "category": "Trabalho",
+      "price": 3000,
+      "createdAt": "2024-06-18T22:58:06.782Z"
+    },
+    {
+      "description": "Venda de Placa Mãe",
+      "price": 190,
+      "category": "Vendas",
+      "type": "income",
+      "createdAt": "2024-07-11T17:29:26.563Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-07-11T17:49:07.343Z",
+      "id": 5
+    },
+    {
+      "description": "Café da Manhã ",
+      "price": 29,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-07-12T13:04:20.030Z",
+      "id": 6
+    }
+  ]
+}
